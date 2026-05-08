@@ -7,4 +7,8 @@ Sendo assim, quando o código for executado ira aparecer Hola Mundo na tela
 
 2- Quando o código for executado ira aparecer Hola Mundo na tela e logo em seguida irá aparecer Como vai
 
-3- O comando "/n"
+3- O comando "/n" pula uma linha na exibição do código na tela
+ Quando o código for executado ira aparecer Hola Mundo na tela sera pulado uma linha e irá aparecer Como vai
+
+4- cadeia é uma variável utilizada para armazenar sequências de caracteres, ou seja, textos, palavras ou frases
+
