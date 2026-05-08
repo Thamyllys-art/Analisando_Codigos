@@ -1,1 +1,10 @@
-1- 
+1- programa { ... } Define o bloco principal onde todo o seu código deve estar inserido;
+{} chaves Definem o início e o fim de um código;
+funcao inicio() { ... } É a função principal do programa que define o local exato onde a execução do código começa;
+escreva ("") É o comando de saída de dados que serão mostrados na tela;
+("Holá Mundo") Os parenteses delimitam os parametros do códigos enquantos as aspas delimitam o texto.
+Sendo assim, quando o código for executado ira aparecer Hola Mundo na tela 
+
+2- Quando o código for executado ira aparecer Hola Mundo na tela e logo em seguida irá aparecer Como vai
+
+3- O comando "/n"
