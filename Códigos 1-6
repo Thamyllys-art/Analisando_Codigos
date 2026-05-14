@@ -3,12 +3,21 @@
 funcao inicio() { ... } É a função principal do programa que define o local exato onde a execução do código começa;
 escreva ("") É o comando de saída de dados que serão mostrados na tela;
 ("Holá Mundo") Os parenteses delimitam os parametros do códigos enquantos as aspas delimitam o texto.
-Sendo assim, quando o código for executado ira aparecer Hola Mundo na tela 
+Sendo assim, quando o código for executado ira aparecer na tela: Hola Mundo  
 
-2- Quando o código for executado ira aparecer Hola Mundo na tela e logo em seguida irá aparecer Como vai
+2- Quando o código for executado ira aparecer Hola Mundo na tela e logo em seguida irá aparecer: Como vai
 
 3- O comando "/n" pula uma linha na exibição do código na tela
- Quando o código for executado ira aparecer Hola Mundo na tela sera pulado uma linha e irá aparecer Como vai
+ Quando o código for executado ira aparecer Hola Mundo na tela sera pulado uma linha e irá aparecer: Como vai
 
-4- cadeia é uma variável utilizada para armazenar sequências de caracteres, ou seja, textos, palavras ou frases
+4- Cadeia é uma variável utilizada para armazenar sequências de caracteres, ou seja, textos, palavras ou frases
 
+5- a) Será exibido o número inteiro 123, vai pula uma linha.
+  Depois será feito a operação aritmética de soma 100 + 200, então aparecerá resultado 300 e irá pular uma linha.
+  Será exibido o texto literal "100+200", exatamente como está escrito entre aspas, sem realizar cálculos
+
+b) Na linha 6 os valores não estão entre aspas, portanto, são tratados como números (inteiros). Então o computador processa a expressão matemática e exibe o resultado da soma.
+Na linha 7 o conteúdo está entre aspas, o que o define como uma cadeia de caracteres. Então computador não interpreta os números ou o sinal como uma conta, mas apenas como um texto.
+
+6- Cria uma variável idade e atribui a ela o valor 21. Depois o comando se (idade >= 18) verifica se o valor de idade é maior ou igual a 18.
+ Como 21 é maior que 18, a condição é verdadeira. O então programa exibe na tela a mensagem: maior de idade
